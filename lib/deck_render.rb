@@ -22,7 +22,6 @@ class DeckRender < Redcarpet::Render::HTML
   end
 
   def block_code value, type
-    puts type
     if value =~ /^:.+/
       "<pre class=\"slide\">#{value[1..-1]}</pre>"
     else
