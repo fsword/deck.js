@@ -78,19 +78,7 @@
     <node id="n2">
       <data key="d3">
         <y:ShapeNode>
-          <y:Geometry height="49.0" width="166.0" x="401.0" y="540.0"/>
-          <y:Fill color="#808080" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="文泉驿正黑" fontSize="17" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="25.421875" modelName="internal" modelPosition="c" textColor="#FFFFFF" visible="true" width="55.0" x="55.5" y="11.7890625">淘代码</y:NodeLabel>
-          <y:Shape type="roundrectangle"/>
-          <y:DropShadow color="#B3A691" offsetX="6" offsetY="6"/>
-        </y:ShapeNode>
-      </data>
-    </node>
-    <node id="n3">
-      <data key="d3">
-        <y:ShapeNode>
-          <y:Geometry height="40.0" width="125.0" x="202.9999999999999" y="634.5"/>
+          <y:Geometry height="40.0" width="125.0" x="44.999999999999886" y="616.5"/>
           <y:Fill color="#808080" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="文泉驿正黑" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="22.890625" modelName="internal" modelPosition="c" textColor="#FFFFFF" visible="true" width="64.0" x="30.5" y="8.5546875">营销中心</y:NodeLabel>
@@ -99,10 +87,10 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n4">
+    <node id="n3">
       <data key="d3">
         <y:ShapeNode>
-          <y:Geometry height="40.0" width="125.0" x="346.9999999999998" y="634.5"/>
+          <y:Geometry height="40.0" width="125.0" x="188.99999999999977" y="616.5"/>
           <y:Fill color="#808080" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="文泉驿正黑" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="22.890625" modelName="internal" modelPosition="c" textColor="#FFFFFF" visible="true" width="118.7265625" x="3.13671875" y="8.5546875">Shop Item Center</y:NodeLabel>
@@ -111,10 +99,10 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n5">
+    <node id="n4">
       <data key="d3">
         <y:ShapeNode>
-          <y:Geometry height="40.0" width="125.0" x="634.9999999999995" y="634.5"/>
+          <y:Geometry height="40.0" width="125.0" x="476.99999999999955" y="616.5"/>
           <y:Fill color="#808080" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="文泉驿正黑" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="22.890625" modelName="internal" modelPosition="c" textColor="#FFFFFF" visible="true" width="80.6845703125" x="22.15771484375" y="8.5546875">Item Center</y:NodeLabel>
@@ -123,10 +111,10 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n6">
+    <node id="n5">
       <data key="d3">
         <y:ShapeNode>
-          <y:Geometry height="40.0" width="125.0" x="490.99999999999966" y="634.5"/>
+          <y:Geometry height="40.0" width="125.0" x="332.99999999999966" y="616.5"/>
           <y:Fill color="#808080" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="文泉驿正黑" fontSize="15" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="22.890625" modelName="internal" modelPosition="c" textColor="#FFFFFF" visible="true" width="115.4453125" x="4.77734375" y="8.5546875">User Item Center</y:NodeLabel>
@@ -135,13 +123,25 @@
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n7">
+    <node id="n6">
       <data key="d3">
         <y:ShapeNode>
-          <y:Geometry height="49.0" width="166.0" x="400.99999999999994" y="452.5"/>
+          <y:Geometry height="49.0" width="166.0" x="242.99999999999994" y="434.5"/>
           <y:Fill color="#808080" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="文泉驿正黑" fontSize="17" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="25.421875" modelName="internal" modelPosition="c" textColor="#FFFFFF" visible="true" width="55.0" x="55.5" y="11.7890625">爱蜂潮</y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+          <y:DropShadow color="#B3A691" offsetX="6" offsetY="6"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n7">
+      <data key="d3">
+        <y:ShapeNode>
+          <y:Geometry height="49.0" width="166.0" x="243.0" y="522.0"/>
+          <y:Fill color="#FFCC99" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="文泉驿正黑" fontSize="17" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="25.421875" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="55.0" x="55.5" y="11.7890625">淘代码</y:NodeLabel>
           <y:Shape type="roundrectangle"/>
           <y:DropShadow color="#B3A691" offsetX="6" offsetY="6"/>
         </y:ShapeNode>
@@ -160,7 +160,7 @@
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e1" source="n2" target="n3">
+    <edge id="e1" source="n6" target="n7">
       <data key="d4"/>
       <data key="d5"><![CDATA[UMLuses]]></data>
       <data key="d6">
@@ -168,12 +168,12 @@
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="dashed" width="1.0"/>
           <y:Arrows source="none" target="short"/>
-          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="-57.20645751953134" y="25.563300580127247"/>
+          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="1.9999999999999432" y="17.268798828125"/>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e2" source="n2" target="n5">
+    <edge id="e2" source="n7" target="n2">
       <data key="d4"/>
       <data key="d5"><![CDATA[UMLuses]]></data>
       <data key="d6">
@@ -181,25 +181,12 @@
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="dashed" width="1.0"/>
           <y:Arrows source="none" target="short"/>
-          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="51.943151855468386" y="25.582593288019666"/>
+          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="-57.20645751953131" y="25.563300580127247"/>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e3" source="n2" target="n6">
-      <data key="d4"/>
-      <data key="d5"><![CDATA[UMLuses]]></data>
-      <data key="d6">
-        <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="dashed" width="1.0"/>
-          <y:Arrows source="none" target="short"/>
-          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="21.112877061631707" y="20.75048828125"/>
-          <y:BendStyle smoothed="false"/>
-        </y:PolyLineEdge>
-      </data>
-    </edge>
-    <edge id="e4" source="n2" target="n4">
+    <edge id="e3" source="n7" target="n3">
       <data key="d4"/>
       <data key="d5"><![CDATA[UMLuses]]></data>
       <data key="d6">
@@ -212,7 +199,7 @@
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e5" source="n7" target="n2">
+    <edge id="e4" source="n7" target="n5">
       <data key="d4"/>
       <data key="d5"><![CDATA[UMLuses]]></data>
       <data key="d6">
@@ -220,7 +207,20 @@
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="dashed" width="1.0"/>
           <y:Arrows source="none" target="short"/>
-          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="1.9999999999999432" y="17.268798828125"/>
+          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="21.112877061631764" y="20.75048828125"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e5" source="n7" target="n4">
+      <data key="d4"/>
+      <data key="d5"><![CDATA[UMLuses]]></data>
+      <data key="d6">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="dashed" width="1.0"/>
+          <y:Arrows source="none" target="short"/>
+          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="4.0" modelName="six_pos" modelPosition="tail" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="51.9431518554685" y="25.582593288019666"/>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
